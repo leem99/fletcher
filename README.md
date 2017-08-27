@@ -17,15 +17,14 @@ Go through all of the summary pages obtained from Congress.gov and extract the f
 
 * Congressional session
 * Law title
-* Bill_num
+* Law Number
 * Sponsor
-* Sponsor_party
-* sponsor_state
+* Sponsor party
+* sponsor state
 * Originating committee(s)
 * Link to URL with text
 
 __first_unsupervised_models.ipynb__
-
 * Test the ability of LDA, NMF, and LSA models to sort laws into human interpretable categories.
 * Project results of better performing models (NMF and LSA) into 2D space using t-SNE. 
 
