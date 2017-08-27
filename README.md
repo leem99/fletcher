@@ -26,4 +26,9 @@ Go through all of the summary pages obtained from Congress.gov and extract the f
 
 __first_unsupervised_models.ipynb__
 
+* Test the ability of LDA, NMF, and LSA models to sort laws into human interpretable categories.
+* Project results of better performing models (NMF and LSA) into 2D space using t-SNE. 
+
 __unsupervised_NMF.ipynb__
+
+__create_custom_stopwords.ipynb__
